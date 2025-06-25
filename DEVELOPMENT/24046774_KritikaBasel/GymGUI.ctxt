@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GymGUI
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GymGUI\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=GymGUI()
+comment2.params=gym
+comment2.target=void\ RegularMemberAc(RegularMember)
+comment3.params=gym
+comment3.target=void\ PremiumMemberAc(PremiumMember)
+comment4.params=
+comment4.target=void\ clearEverything()
+comment5.params=id
+comment5.target=GymMember\ searchMember(int)
+comment6.params=
+comment6.target=void\ detailsFromFile()
+comment7.params=
+comment7.target=void\ saveToFile()
+comment8.params=event
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

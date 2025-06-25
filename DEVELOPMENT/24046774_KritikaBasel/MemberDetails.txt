@@ -1,0 +1,2 @@
+ID    Name            Location        Phone           Email           Start Date      Plan       Price      Attendance Loyalty         Active     FullPayment     Discount        Paid           
+1     kritika         swoyambhu       1234567890      keri@rftgyh     2024/6/4        Premium    50000.00   3          30.0            true       false           0.00            0.00           
